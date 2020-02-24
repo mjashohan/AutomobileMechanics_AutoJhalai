@@ -1,0 +1,95 @@
+#ban{
+    display: block;
+    height: 300px;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div#wrapper{
+    position: absolute;
+    background-color: black;
+    margin: 0 auto;
+    width: 950px;
+    height: 900px, inherit;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: inherit;
+    color: white;
+    text-decoration: none;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+div#wrapper2{
+    position: absolute;
+    background-color: midnightblue;
+    margin: 0 auto;
+    width: 950px;
+    height: 900px, inherit;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: inherit;
+    color: white;
+    text-decoration: none;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 20px;
+}
+.footer{
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    padding: 0.2rem;
+    background-color: #efefef;
+    text-align: center;
+    width: 945px;
+    margin-left: auto;
+    margin-right: auto;
+    position: inherit;
+    color: black;
+    font-size: 20px;
+}
+.button1{
+    padding: 50px 100px;
+    background: #4479BA;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.button2{
+    padding: 50px 90px;
+    background: red;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+}
+body{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+}
+table {
+    width: 100%;
+    height: 300%;
+    border: 2px solid;
+}
+
+th {
+    height: 50px;
+    background-color: black;
+}
+tr{
+    text-align: center;
+    width: 300%;
+    line-height: 500%;
+}
+td{
+    height: 300%;
+}
+tr:nth-child(even){
+    background-color: dimgray;
+}
+tr:hover{
+    background-color: gray;
+}
+.haha{
+    padding-right: 250px;
+}
